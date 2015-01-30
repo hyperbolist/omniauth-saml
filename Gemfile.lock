@@ -3,7 +3,7 @@ PATH
   specs:
     omniauth-saml (1.3.0)
       omniauth (~> 1.1)
-      ruby-saml (~> 0.8.1)
+      ruby-saml (~> 0.9.0)
 
 GEM
   remote: https://rubygems.org/
@@ -30,7 +30,7 @@ GEM
     rspec-expectations (2.14.4)
       diff-lcs (>= 1.1.3, < 2.0)
     rspec-mocks (2.14.4)
-    ruby-saml (0.8.1)
+    ruby-saml (0.9.0)
       nokogiri (>= 1.5.0)
       uuid (~> 2.3)
     simplecov (0.7.1)
